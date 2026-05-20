@@ -25,7 +25,7 @@
 
 ---
 
-> 🎯 **TL;DR** — This project segments retail customers using unsupervised machine learning (K-Means + PCA + t-SNE) on a marketing campaign dataset of 2,240 customers, identifying three actionable clusters: **VIPs**, **Mid-Value Growth**, and **Price-Sensitive** customers — each paired with a targeted marketing strategy.
+> 🎯 — This project segments retail customers using unsupervised machine learning (K-Means + PCA + t-SNE) on a marketing campaign dataset of 2,240 customers, identifying three actionable clusters: **VIPs**, **Mid-Value Growth**, and **Price-Sensitive** customers — each paired with a targeted marketing strategy.
 
 ---
 
