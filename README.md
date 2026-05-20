@@ -29,6 +29,9 @@
 
 ---
 
+📄 [Read the full report](report/report.pdf)
+---
+
 ## 📑 Table of Contents
 
 **Introduction**
