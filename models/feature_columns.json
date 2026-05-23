@@ -1,0 +1,20 @@
+[
+  "Age",
+  "Income",
+  "Days_is_client",
+  "Recency",
+  "Expenses",
+  "TotalNumPurchases",
+  "Complain",
+  "Response",
+  "Education_Undergraduate",
+  "Education_Postgraduate",
+  "Kids_1",
+  "Kids_2",
+  "Kids_3",
+  "TotalAcceptedCmp_1",
+  "TotalAcceptedCmp_2",
+  "TotalAcceptedCmp_3",
+  "TotalAcceptedCmp_4",
+  "Marital_Status_Single"
+]

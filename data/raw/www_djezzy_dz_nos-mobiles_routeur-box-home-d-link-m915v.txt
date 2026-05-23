@@ -1,0 +1,103 @@
+URL: https://www.djezzy.dz/nos-mobiles/routeur-box-home-d-link-m915v/
+CATEGORY: devices
+TITLE: BOX Home M915V
+SCRAPED_AT: 2026-03-30T18:04:10.855852
+============================================================
+
+Accueil
+Entreprises
+Djezzy
+Protection des données
+SMS Douteux
+Mon espace
+Français
+Offres
+Services
+Mobiles
+Accueil Mobiles BOX Home M915V
+BOX HOME M915V
+Model DWR-M915V
+300Mbps 802.11bgn Wireless Fast Ethernet Router
+Hardware Specifications
+Interface LAN Port: 1 x 10/100 Mbps auto MDI/MDI-X RJ45 port
+Antenna Gain: 2x3dBi 2.4g external antenna
+2x5dBi LTE external antenna
+Button 1 x reset button
+1 x WPS button
+LED Indicators POWR x 1
+Internet x 1
+WIFI x 1
+WPS x 1
+Phone x 1
+LTE Signal x 3
+Material Plastic
+Dimensions (W x D x H) 160x 106x 28.5 mm (W x D x H)
+Weight 322g
+Power Requirement 12V DC, 1A
+Power Consumption 9W
+Wireless Interface Specifications
+Standard IEEE 802.11b/g/n 2.4GHz
+Frequency Band 2.4GHz
+Modulation Type 802.11a/g/n: OFDM (BPSK / QPSK / 16QAM / 64QAM)
+802.11b: DSSS (DBPSK / DQPSK / CCK)
+Data Rates 2.4GHz up to 300Mbps
+Channel 2.4GHz
+FCC (America): 2.412~2.462GHz (11 Channels)
+ETSI (Europe): 2.412~2.472GHz (13 Channels)
+Channel Width 802.11n: 20/40MHz
+Max. RF Power / EIRP 2.4GHz: < 20dBm
+Receive Sensitivity 2.4GHz
+11b (11Mbps): -79dBm
+11g (54Mbps): -68dBm
+11n (20M) mode: -67dBm 11n (40M) mode: -64dBm
+SSID 1 Root SSID and 4 Guest SSID
+Wireless Management Features
+Encryption Security WEP
+WPA/WPA2/WPA3 personal mixed mode
+Wireless Security Wireless ACL MAC address filtering
+Supports WPS (Wi-Fi Protected Setup )
+Max. Supported Clients 2.4GHz wireless: 32
+Wireless Extender Supports 2.4Grepeater
+Internet Connection Type Shares data and Internet access for users, supporting the following Internet accesses:
+◼ 3G/LTE Mobile network
+◼ ETH Router mode
+->DHCP
+->Static IP
+->PPPoE
+Firewall NAT firewall, SPI firewall
+Built-in NAT server which supports Port Forwarding and DMZ
+Built-in firewall with URL filtering, and MAC address filtering
+LAN Built-in DHCP server supporting static IP address distribution
+Supports packet statistics
+3G&LTE Supports 3G or LTE technology
+Supports auto and manual APN settings
+Supports Fail-Over backup
+System Management Web-based (HTTP) management interface
+Supports UPnP, DDNS
+SNTP synchronization
+System log
+Standards Conformance
+IEEE Standards IEEE 802.11n (2T2R, up to 300Mbps)
+IEEE 802.11g
+IEEE 802.11b
+IEEE 802.11i
+IEEE 802.3 10BASE-T
+IEEE 802.3u 100BASE-TX
+Other Protocols and Standards TCP/IP, DHCP, ICMP, NAT, PPPoE, SNTP
+Regulatory CE, RoHS, WEEE
+Environment
+Temperature Operating: 0 ~ 40 degrees C
+Storage: -40 ~ 70 degrees C
+Humidity Operating: 10 ~ 90% (non-condensing)
+Storage: 5 ~ 95% (non-condensing)
+à seulement 9 100 DA
+twitter
+facebook
+youtube
+linkedin
+instagram
+A PROPOS DE DJEZZY
+Services Particuliers
+Services Entreprises
+Mentions légales
+Conditions Générales d’Utilisation 5G

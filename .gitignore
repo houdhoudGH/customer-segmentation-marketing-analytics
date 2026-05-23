@@ -1,95 +1,28 @@
-# ============================================================
-#  .gitignore — Customer Segmentation & Marketing Analytics
-# ============================================================
-
-# -------- Python --------
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
 .Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
 *.egg-info/
-.installed.cfg
-*.egg
-
-# -------- Virtual environments --------
-.env
-.venv
-env/
+.venv/
 venv/
-ENV/
-env.bak/
-venv.bak/
+env/
 
-# -------- Jupyter --------
+# Jupyter
 .ipynb_checkpoints/
-*/.ipynb_checkpoints/*
-profile_default/
-ipython_config.py
-.jupyter/
 
-# -------- IDE / Editor --------
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+# OS
 .DS_Store
 Thumbs.db
-desktop.ini
 
-# -------- Data files (uncomment to keep raw data out of repo) --------
-# *.csv
-# *.xlsx
-# *.parquet
-# *.json
-# *.pkl
-# *.pickle
-# data/raw/
-# data/processed/
+# IDE
+.vscode/
+.idea/
 
-# -------- Model artifacts --------
-*.h5
-*.pt
-*.pth
-*.joblib
-*.model
-models/
+# Streamlit
+.streamlit/secrets.toml
 
-# -------- Logs & temporary files --------
-*.log
-logs/
-tmp/
-temp/
-.cache/
-
-# -------- OS junk --------
-.DS_Store
-.AppleDouble
-.LSOverride
-Icon
-._*
-.Spotlight-V100
-.Trashes
-
-# -------- Secrets (never commit API keys!) --------
-.env
-.env.local
-.env.*.local
-secrets.json
-config.local.*
-credentials.json
-*.key
-*.pem
+# Keep these — Streamlit Cloud needs them at runtime
+!models/*.pkl
+!data/*.parquet
+!models/*.json

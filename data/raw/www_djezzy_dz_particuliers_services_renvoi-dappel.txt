@@ -1,0 +1,61 @@
+URL: https://www.djezzy.dz/particuliers/services/renvoi-dappel/
+CATEGORY: services
+TITLE: Renvoi d'appel de Djezzy
+SCRAPED_AT: 2026-03-30T18:00:47.929452
+============================================================
+
+Accueil
+Entreprises
+Djezzy
+Protection des données
+SMS Douteux
+Mon espace
+Français
+Offres
+Services
+Mobiles
+Renvoi d'appel
+Accueil Particuliers Services Renvoi d'appel
+DESCRIPTION
+Avec le Renvoi d’Appel, vos appels vous suivent partout !! Vous vous trouvez hors de la zone de couverture ? En réunion ou à court de batterie ? Vous pouvez faire suivre vos appels vers le numéro de votre choix.
+Le Renvoi d’Appel vous permet de basculer vos appels automatiquement sur un autre poste mobile, fixe ou bien votre boite vocale ! Ainsi vous demeurez joignable à tout moment.
+COMMENT ÇA MARCHE ?
+Les différentes options du renvoi d’appel
+Tous Renvoi systématique de tous vos appels
+Non-réponse Uniquement si vous ne répondez pas
+Si occupé Uniquement si votre ligne est occupée.
+Cumulé Si votre ligne est occupée, si vous ne répondez pas ou si vous êtes en dehors de la zone de couverture.
+Injoignable Uniquement si vous êtes hors de la zone de couverture.
+Data Renvoi de vos appels de réception de données vers le numéro précisé.
+Fax Renvoi de vos appels de réception de fax vers le numéro précisé.
+Bilan Liste des renvois activés à partir de ce téléphone.
+Tout annuler Annulation de tous les renvois activés.
+Trois options s’offrent à vous pour effectuer votre renvoi
+Définir
+Effacer
+Vérifier
+L’état “Si définir”, “renvoyer vers” :
+N° de téléphone (nouveau ou enregistré dans le répertoire).
+Boite Vocale.
+Commandes abrégées du Renvoi d’Appel*
+Pour faire un renvoi vers votre Boite Vocale lorsque vous êtes injoignable **62*550#ok
+Pour faire un renvoi vers votre Boite Vocale en cas de non-réponse **61*550#ok
+Pour faire un renvoi vers votre Boite Vocale lorsque vous êtes occupé **67*550#ok
+Pour le renvoi inconditionnel vers votre Boite Vocal **21*550#ok
+Pour le renvoi vers un autre numéro **21* N° souhaité #ok
+Pour désactiver ces renvois :
+Utilisez les codes d’annulation des renvois, à composer directement sur le clavier, composez le”# # code du renvoi #” puis validez
+(Composez le ##002# pour annuler tous les renvois)
+*Ces commandes sont valables pour le renvoi d'appel vers un numéro de votre choix en remplaçant le 550 par le numéro vers lequel vous souhaitez activer le renvoi.
+TARIFICATION
+L'activation du service est gratuite et la réception d’appel est facturée selon les tarifs en vigueur de votre profil.
+twitter
+facebook
+youtube
+linkedin
+instagram
+A PROPOS DE DJEZZY
+Services Particuliers
+Services Entreprises
+Mentions légales
+Conditions Générales d’Utilisation 5G

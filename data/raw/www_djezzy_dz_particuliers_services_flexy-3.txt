@@ -1,0 +1,36 @@
+URL: https://www.djezzy.dz/particuliers/services/flexy-3/
+CATEGORY: services
+TITLE: Flexy, service DJezzy pour transférer du crédit et payer vos factures
+SCRAPED_AT: 2026-03-30T17:59:53.930523
+============================================================
+
+Accueil
+Entreprises
+Djezzy
+Protection des données
+SMS Douteux
+Mon espace
+Français
+Offres
+Services
+Mobiles
+Djezzy FLEXY
+Accueil Particuliers Services Flexy
+DESCRIPTION
+Flexy de Djezzy est un service destiné à tous les abonnés Djezzy. Il vous permet de recharger le montant que vous voulez au numéro que vous souhaitez (confirmation par SMS) ainsi que de payer votre facture sans déplacement !
+Il est disponible dans tous les points de vente Djezzy.
+FLEXY CODE
+Cette fonctionnalité permet de communiquer un code de substitution à 8 chiffres à la place de votre numéro de téléphone au moment d’effectuer votre recharge.
+L’attribution du Flexy Code se fait via *765# (max cinq transactions par jour et par utilisateur). Ci-dessous les formules à suivre :
+Rechargement Paiement de facture
+Numéro d’appel / Flexy Code *760*numéro d’appel*la somme*PIN# *761*numéro d’appel*la somme*PIN#
+twitter
+facebook
+youtube
+linkedin
+instagram
+A PROPOS DE DJEZZY
+Services Particuliers
+Services Entreprises
+Mentions légales
+Conditions Générales d’Utilisation 5G

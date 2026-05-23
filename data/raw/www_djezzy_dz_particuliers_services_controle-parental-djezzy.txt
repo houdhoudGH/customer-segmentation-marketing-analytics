@@ -1,0 +1,63 @@
+URL: https://www.djezzy.dz/particuliers/services/controle-parental-djezzy/
+CATEGORY: services
+TITLE: Contrôle parental
+SCRAPED_AT: 2026-03-30T18:01:36.743827
+============================================================
+
+Accueil
+Entreprises
+Djezzy
+Protection des données
+SMS Douteux
+Mon espace
+Français
+Offres
+Services
+Mobiles
+Accueil Particuliers Services Contrôle parental
+GÉREZ ET SÉCURISEZ L'USAGE DES APPAREILS
+DE VOS ENFANTS GRATUITEMENT !
+L’internet mobile donne accès à de nombreux contenus qui peuvent se révéler inadaptés aux plus jeunes.
+Le service Contrôle Parental de DJEZZY permet de verrouiller l'accès aux sites proposant des contenus internet pouvant heurter la sensibilité des plus jeunes depuis notre réseau Djezzy en créant un niveau de Contrôle Parental Mobile pré configuré.
+COMMENT ÇA MARCHE ?
+Très simple, composez la formule *164# mise à votre disposition pour :
+Abonner, désabonner du service contrôle parental.
+Activer & Désactiver le service contrôle parental à partir du téléphone de l’enfant.
+Protéger le service avec un mot de passe personnalisé.
+ÉTAPES
+ÉTAPES DE SOUSCRIPTION :
+Le parent devra utiliser le mobile de son enfant
+Composer * 164#
+Choisir « Contrôle parental »
+Cliquer sur activer le service
+Insérer un numéro Djezzy du parent
+Introduire un mot de passe
+Confirmer le mot de passe
+Réception d’un SMS confirmant l’activation du service
+Réception des Messages de Configuration de l’APN Djezzy.control qui doit être installé sur le mobile de l’enfant.
+ÉTAPES DE DÉSACTIVATION:
+Le parent devra utiliser le mobile de son l’enfant
+Composer *164#
+Cliquer sur désactiver le service
+Introduire le mot de passe
+Le service est désactivé
+Réception d’un SMS confirmant la désactivation du service
+Réception des Messages de Configuration de l’APN Djezzy.Internet qui doit être installé sur le mobile de l’enfant
+MOT DE PASSE OUBLIÉ :
+Le parent devra utiliser son mobile
+Cliquer sur mot de passe oublié
+Suivre les instructions qui lui sont demandé
+Introduire le numéro de l’enfant
+Introduire Code Pin 2 du parent
+Réception d’un SMS contenant un nouveau Mot de Passe
+Le service contrôle parental classique est gratuit
+twitter
+facebook
+youtube
+linkedin
+instagram
+A PROPOS DE DJEZZY
+Services Particuliers
+Services Entreprises
+Mentions légales
+Conditions Générales d’Utilisation 5G
