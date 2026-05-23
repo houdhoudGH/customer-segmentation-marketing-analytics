@@ -59,14 +59,6 @@ A 5-chapter story dashboard built in **Dash + Plotly**, designed to read top-to-
 ![Chapter 5 — The Playbook](docs/images/image5.png)
 *Chapter 5 — The playbook. Each segment gets a profile card, strategic value statement, channel mix, and a concrete marketing action plan.*
 
----
-
-## 🎯 The Headline Insight
-
-> **VIPs spend 5.6× more and buy 2.3× more often than the lowest-value segment — and they accept marketing campaigns at 6× the rate.**
-> Concentrating premium offers on this segment is the single highest-ROI marketing move available in the data.
-
----
 
 ## 📑 Table of Contents
 
