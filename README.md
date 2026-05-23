@@ -59,6 +59,7 @@ A 5-chapter story dashboard built in **Dash + Plotly**, designed to read top-to-
 ![Chapter 5 — The Playbook](docs/images/image5.png)
 *Chapter 5 — The playbook. Each segment gets a profile card, strategic value statement, channel mix, and a concrete marketing action plan.*
 
+---
 
 ## 📑 Table of Contents
 
